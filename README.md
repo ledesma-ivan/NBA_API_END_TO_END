@@ -1,4 +1,4 @@
-Este proyecto proporciona una API para acceder a datos de la NBA. Incluye puntos finales para recuperar información de jugadores y equipos de la NBA, estadísticas de partidos y otros datos relacionados con la NBA.
+#### Este proyecto proporciona una API para acceder a datos de la NBA. Incluye puntos finales para recuperar información de jugadores y equipos de la NBA, estadísticas de partidos y otros datos relacionados con la NBA.
 ---
 
 ## Configuración del entorno
